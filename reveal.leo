@@ -1989,8 +1989,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h1&gt;自評分數&lt;/h1&gt;
-    &lt;p&gt;&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;p&gt;這次整個過程都由我自己著手和搭配老師的影片，自評分數為70分。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2021,15 +2021,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
-    &lt;p&gt;40328242 四設二乙 楊承得 &lt;/p&gt;		
+    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
+    &lt;p&gt;學號:40328242&lt;/p&gt;班級:四設二乙&lt;/p&gt;姓名:楊承得 &lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;自評內容&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;p&gt;藉由solvespaace的操作，讓我對3D繪圖有初步的了解。&lt;/p&gt;
+    &lt;p&gt; &lt;a href="http://www.google.com"&gt;&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
